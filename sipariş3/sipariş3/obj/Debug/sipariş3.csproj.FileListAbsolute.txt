@@ -1,0 +1,11 @@
+C:\Users\ssera\Desktop\sipariş3\sipariş3\bin\Debug\sipariş3.exe.config
+C:\Users\ssera\Desktop\sipariş3\sipariş3\bin\Debug\sipariş3.exe
+C:\Users\ssera\Desktop\sipariş3\sipariş3\bin\Debug\sipariş3.pdb
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.csproj.AssemblyReference.cache
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.Form1.resources
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.Frm2.resources
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.Properties.Resources.resources
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.csproj.GenerateResource.cache
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.csproj.CoreCompileInputs.cache
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.exe
+C:\Users\ssera\Desktop\sipariş3\sipariş3\obj\Debug\sipariş3.pdb
